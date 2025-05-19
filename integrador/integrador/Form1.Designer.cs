@@ -1,6 +1,6 @@
 ﻿namespace integrador
 {
-    partial class Form1
+    partial class FrmMain_Mostrar
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,32 +28,80 @@
         /// </summary>
         private void InitializeComponent()
         {
-            Lbltex = new Label();
+            LblTitulo = new Label();
+            DgvSabores = new DataGridView();
+            nombre = new DataGridViewTextBoxColumn();
+            descripcion = new DataGridViewTextBoxColumn();
+            precio = new DataGridViewTextBoxColumn();
+            Btn_Siguente = new Button();
+            ((System.ComponentModel.ISupportInitialize)DgvSabores).BeginInit();
             SuspendLayout();
             // 
-            // Lbltex
+            // LblTitulo
             // 
-            Lbltex.AutoSize = true;
-            Lbltex.Location = new Point(438, 85);
-            Lbltex.Name = "Lbltex";
-            Lbltex.Size = new Size(42, 15);
-            Lbltex.TabIndex = 0;
-            Lbltex.Text = "TEXTO";
+            LblTitulo.AutoSize = true;
+            LblTitulo.Location = new Point(357, 20);
+            LblTitulo.Name = "LblTitulo";
+            LblTitulo.Size = new Size(68, 15);
+            LblTitulo.TabIndex = 1;
+            LblTitulo.Text = "HELADERIA";
             // 
-            // Form1
+            // DgvSabores
+            // 
+            DgvSabores.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            DgvSabores.Columns.AddRange(new DataGridViewColumn[] { nombre, descripcion, precio });
+            DgvSabores.Location = new Point(205, 60);
+            DgvSabores.Name = "DgvSabores";
+            DgvSabores.Size = new Size(374, 252);
+            DgvSabores.TabIndex = 2;
+            // 
+            // nombre
+            // 
+            nombre.HeaderText = "Nombre del sabor:";
+            nombre.Name = "nombre";
+            // 
+            // descripcion
+            // 
+            descripcion.HeaderText = "Descripcion:";
+            descripcion.Name = "descripcion";
+            // 
+            // precio
+            // 
+            precio.HeaderText = "Precio:";
+            precio.Name = "precio";
+            // 
+            // Btn_Siguente
+            // 
+            Btn_Siguente.Location = new Point(631, 36);
+            Btn_Siguente.Name = "Btn_Siguente";
+            Btn_Siguente.Size = new Size(137, 67);
+            Btn_Siguente.TabIndex = 3;
+            Btn_Siguente.Text = "Siguiente";
+            Btn_Siguente.UseVisualStyleBackColor = true;
+            Btn_Siguente.Click += Btn_Siguente_Click;
+            // 
+            // FrmMain_Mostrar
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(Lbltex);
-            Name = "Form1";
-            Text = "Form1";
+            Controls.Add(Btn_Siguente);
+            Controls.Add(DgvSabores);
+            Controls.Add(LblTitulo);
+            Name = "FrmMain_Mostrar";
+            Text = "FrmMain";
+            Activated += FrmMain_Mostrar_Activated;
+            ((System.ComponentModel.ISupportInitialize)DgvSabores).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
-
-        private Label Lbltex;
+        private Label LblTitulo;
+        private DataGridView DgvSabores;
+        private DataGridViewTextBoxColumn nombre;
+        private DataGridViewTextBoxColumn descripcion;
+        private DataGridViewTextBoxColumn precio;
+        private Button Btn_Siguente;
     }
 }
