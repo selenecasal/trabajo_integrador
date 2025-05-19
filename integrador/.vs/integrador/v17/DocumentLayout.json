@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:integrador\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\agregar_sabores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|solutionrelative:integrador\\agregar_sabores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:integrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|solutionrelative:integrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\agregar_sabores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:integrador\\agregar_sabores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|c:\\users\\selene\\documents\\github\\ingrador\\trabajo_integrador\\integrador\\integrador\\agregar_sabores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|solutionrelative:integrador\\agregar_sabores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Helado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:integrador\\Helado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|c:\\users\\selene\\documents\\github\\ingrador\\trabajo_integrador\\integrador\\integrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|solutionrelative:integrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Agregar_Sabores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:integrador\\Agregar_Sabores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|c:\\users\\selene\\documents\\github\\ingrador\\trabajo_integrador\\integrador\\integrador\\helado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|solutionrelative:integrador\\helado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Agregar_Sabores.cs",
               "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Agregar_Sabores.cs",
               "RelativeDocumentMoniker": "integrador\\Agregar_Sabores.cs",
@@ -51,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Form1.cs",
               "RelativeDocumentMoniker": "integrador\\Form1.cs",
@@ -61,6 +57,22 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T23:20:55.91Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Helado.cs",
+              "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Helado.cs",
+              "RelativeDocumentMoniker": "integrador\\Helado.cs",
+              "ToolTip": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Helado.cs",
+              "RelativeToolTip": "integrador\\Helado.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T00:14:46.945Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -76,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Agregar_Sabores.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Agregar_Sabores.cs",
               "RelativeDocumentMoniker": "integrador\\Agregar_Sabores.cs",
@@ -85,19 +97,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T12:05:46.38Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Helado.cs",
-              "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Helado.cs",
-              "RelativeDocumentMoniker": "integrador\\Helado.cs",
-              "ToolTip": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Helado.cs",
-              "RelativeToolTip": "integrador\\Helado.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T00:14:46.945Z",
-              "EditorCaption": ""
             }
           ]
         }
