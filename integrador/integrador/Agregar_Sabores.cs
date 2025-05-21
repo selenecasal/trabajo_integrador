@@ -12,18 +12,30 @@ namespace integrador
 {
     public partial class Agregar_Sabores : Form
     {
-        FrmMain_Mostrar forminicio;
+        FrmMain_Mostrar formInicio;
         public Agregar_Sabores(FrmMain_Mostrar form)
         {
             InitializeComponent();
-            forminicio = form;
+            formInicio = form;
         }
 
         private void Agregar_Sabores_FormClosing(object sender, FormClosingEventArgs e)
         {
             e.Cancel = true;
             this.Hide();
-            forminicio.Show();
+            formInicio.Show();
+        }
+        private void Btn_Agregar_Click(object sender, EventArgs e)
+        {
+            Helado helado;
+            string nomb = TxtNom.Text;
+            string des = TxtDescrip.Text;
+            int pre = Convert.ToInt32(TxtPre.Text);
+            helado = new Helado(nomb, des, pre);
+            formInicio.conexion.Open();
+
+
+            MessageBox.Show("Helado agregado correctamente.");
         }
     }
 }

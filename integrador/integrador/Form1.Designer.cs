@@ -50,7 +50,7 @@
             // 
             DgvSabores.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             DgvSabores.Columns.AddRange(new DataGridViewColumn[] { nombre, descripcion, precio });
-            DgvSabores.Location = new Point(205, 60);
+            DgvSabores.Location = new Point(205, 61);
             DgvSabores.Name = "DgvSabores";
             DgvSabores.Size = new Size(374, 252);
             DgvSabores.TabIndex = 2;

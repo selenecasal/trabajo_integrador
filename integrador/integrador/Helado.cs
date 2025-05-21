@@ -6,18 +6,18 @@ using System.Threading.Tasks;
 
 namespace integrador
 {
-    public abstract class Helado
+    public class Helado
     {
         protected string nombre;
         protected string descripcion;
         protected int precio;
-        Helado(string nom, string descrip, int prec)
+        public Helado(string nom, string descrip, int prec)
         {
             nombre = nom;
             descripcion = descrip;
             precio = prec;
         } 
-    }
+
         public string Nombre
         {
             get { return nombre; }
