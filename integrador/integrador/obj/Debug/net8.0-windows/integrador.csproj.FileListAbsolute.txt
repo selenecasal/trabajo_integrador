@@ -49,7 +49,6 @@ C:\Users\Selene\Documents\GitHub\ingrador\trabajo_integrador\integrador\integrad
 C:\Users\Selene\Documents\GitHub\ingrador\trabajo_integrador\integrador\integrador\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\Selene\Documents\GitHub\ingrador\trabajo_integrador\integrador\integrador\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\Selene\Documents\GitHub\ingrador\trabajo_integrador\integrador\integrador\obj\Debug\net8.0-windows\integrador.csproj.AssemblyReference.cache
-C:\Users\Selene\Documents\GitHub\ingrador\trabajo_integrador\integrador\integrador\obj\Debug\net8.0-windows\integrador.Form1.resources
 C:\Users\Selene\Documents\GitHub\ingrador\trabajo_integrador\integrador\integrador\obj\Debug\net8.0-windows\integrador.csproj.GenerateResource.cache
 C:\Users\Selene\Documents\GitHub\ingrador\trabajo_integrador\integrador\integrador\obj\Debug\net8.0-windows\integrador.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Selene\Documents\GitHub\ingrador\trabajo_integrador\integrador\integrador\obj\Debug\net8.0-windows\integrador.AssemblyInfoInputs.cache
@@ -61,3 +60,6 @@ C:\Users\Selene\Documents\GitHub\ingrador\trabajo_integrador\integrador\integrad
 C:\Users\Selene\Documents\GitHub\ingrador\trabajo_integrador\integrador\integrador\obj\Debug\net8.0-windows\integrador.pdb
 C:\Users\Selene\Documents\GitHub\ingrador\trabajo_integrador\integrador\integrador\obj\Debug\net8.0-windows\integrador.genruntimeconfig.cache
 C:\Users\Selene\Documents\GitHub\ingrador\trabajo_integrador\integrador\integrador\obj\Debug\net8.0-windows\ref\integrador.dll
+C:\Users\Selene\Documents\GitHub\ingrador\trabajo_integrador\integrador\integrador\obj\Debug\net8.0-windows\integrador.Agregar_Sabores.resources
+C:\Users\Selene\Documents\GitHub\ingrador\trabajo_integrador\integrador\integrador\obj\Debug\net8.0-windows\integrador.FrmMain_Mostrar.resources
+C:\Users\Selene\Documents\GitHub\ingrador\trabajo_integrador\integrador\integrador\obj\Debug\net8.0-windows\integrador.sourcelink.json

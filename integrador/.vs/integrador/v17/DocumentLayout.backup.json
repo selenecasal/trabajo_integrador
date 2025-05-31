@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\agregar_sabores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|solutionrelative:integrador\\agregar_sabores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|solutionrelative:integrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|c:\\users\\selene\\documents\\github\\ingrador\\trabajo_integrador\\integrador\\integrador\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|solutionrelative:integrador\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|c:\\users\\selene\\documents\\github\\ingrador\\trabajo_integrador\\integrador\\integrador\\agregar_sabores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|solutionrelative:integrador\\agregar_sabores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|c:\\users\\selene\\documents\\github\\ingrador\\trabajo_integrador\\integrador\\integrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|solutionrelative:integrador\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\agregar_sabores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|solutionrelative:integrador\\agregar_sabores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|c:\\users\\selene\\documents\\github\\ingrador\\trabajo_integrador\\integrador\\integrador\\helado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|solutionrelative:integrador\\helado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|c:\\users\\selene\\documents\\github\\ingrador\\trabajo_integrador\\integrador\\integrador\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BCC4183-9AEA-4BF9-85EE-92D70EB4F837}|integrador\\integrador.csproj|solutionrelative:integrador\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,65 +30,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Agregar_Sabores.cs",
-              "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Agregar_Sabores.cs",
-              "RelativeDocumentMoniker": "integrador\\Agregar_Sabores.cs",
-              "ToolTip": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Agregar_Sabores.cs",
-              "RelativeToolTip": "integrador\\Agregar_Sabores.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T12:23:05.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Form1.cs",
-              "RelativeDocumentMoniker": "integrador\\Form1.cs",
-              "ToolTip": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Form1.cs",
-              "RelativeToolTip": "integrador\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T23:20:55.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Helado.cs",
-              "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Helado.cs",
-              "RelativeDocumentMoniker": "integrador\\Helado.cs",
-              "ToolTip": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Helado.cs",
-              "RelativeToolTip": "integrador\\Helado.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T00:14:46.945Z"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Form1.cs",
-              "RelativeDocumentMoniker": "integrador\\Form1.cs",
-              "ToolTip": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "integrador\\Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 4,
+              "Title": "FrmInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\FrmInicio.cs",
+              "RelativeDocumentMoniker": "integrador\\FrmInicio.cs",
+              "ToolTip": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\FrmInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "integrador\\FrmInicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T23:18:48.934Z",
+              "WhenOpened": "2025-05-30T23:48:32.697Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Agregar_Sabores.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Agregar_Sabores.cs",
               "RelativeDocumentMoniker": "integrador\\Agregar_Sabores.cs",
@@ -97,6 +59,45 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T12:05:46.38Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmInicio.cs",
+              "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\FrmInicio.cs",
+              "RelativeDocumentMoniker": "integrador\\FrmInicio.cs",
+              "ToolTip": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\FrmInicio.cs",
+              "RelativeToolTip": "integrador\\FrmInicio.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwE0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T23:48:34.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Agregar_Sabores.cs",
+              "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Agregar_Sabores.cs",
+              "RelativeDocumentMoniker": "integrador\\Agregar_Sabores.cs",
+              "ToolTip": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Agregar_Sabores.cs",
+              "RelativeToolTip": "integrador\\Agregar_Sabores.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAD4vyYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:23:05.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helado.cs",
+              "DocumentMoniker": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Helado.cs",
+              "RelativeDocumentMoniker": "integrador\\Helado.cs",
+              "ToolTip": "C:\\Users\\Selene\\Documents\\GitHub\\ingrador\\trabajo_integrador\\integrador\\integrador\\Helado.cs",
+              "RelativeToolTip": "integrador\\Helado.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T00:14:46.945Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -37,7 +37,8 @@
             TxtDescrip = new TextBox();
             TxtPre = new TextBox();
             TxtNom = new TextBox();
-            Btn_Enviar = new Button();
+            BtnAgregar = new Button();
+            BtnModif = new Button();
             SuspendLayout();
             // 
             // LblAgregar
@@ -102,21 +103,34 @@
             TxtNom.Size = new Size(177, 23);
             TxtNom.TabIndex = 7;
             // 
-            // Btn_Enviar
+            // BtnAgregar
             // 
-            Btn_Enviar.Location = new Point(321, 214);
-            Btn_Enviar.Name = "Btn_Enviar";
-            Btn_Enviar.Size = new Size(134, 66);
-            Btn_Enviar.TabIndex = 8;
-            Btn_Enviar.Text = "Enviar";
-            Btn_Enviar.UseVisualStyleBackColor = true;
+            BtnAgregar.Location = new Point(211, 214);
+            BtnAgregar.Name = "BtnAgregar";
+            BtnAgregar.Size = new Size(134, 66);
+            BtnAgregar.TabIndex = 8;
+            BtnAgregar.Text = "Agregar Sabor";
+            BtnAgregar.UseVisualStyleBackColor = true;
+            BtnAgregar.Click += Btn_Enviar_Click;
+            // 
+            // BtnModif
+            // 
+            BtnModif.Location = new Point(456, 214);
+            BtnModif.Name = "BtnModif";
+            BtnModif.Size = new Size(134, 66);
+            BtnModif.TabIndex = 9;
+            BtnModif.Text = "Modificar";
+            BtnModif.UseVisualStyleBackColor = true;
+            BtnModif.Visible = false;
+            BtnModif.Click += BtnModif_Click;
             // 
             // Agregar_Sabores
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(Btn_Enviar);
+            Controls.Add(BtnModif);
+            Controls.Add(BtnAgregar);
             Controls.Add(TxtNom);
             Controls.Add(TxtPre);
             Controls.Add(TxtDescrip);
@@ -141,6 +155,7 @@
         private TextBox TxtDescrip;
         private TextBox TxtPre;
         private TextBox TxtNom;
-        private Button Btn_Enviar;
+        private Button BtnAgregar;
+        private Button BtnModif;
     }
 }
