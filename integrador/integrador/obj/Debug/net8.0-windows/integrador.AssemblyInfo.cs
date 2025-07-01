@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("integrador")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c586e9e8a2c27d2c5938afff573607cdcce6efcb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+525c5fa22d8c268bc0d4f943b2c56c539ae96e7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("integrador")]
 [assembly: System.Reflection.AssemblyTitleAttribute("integrador")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

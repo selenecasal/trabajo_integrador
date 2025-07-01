@@ -81,7 +81,7 @@ namespace integrador
             heladoEditar.Precio = int.Parse(TxtPre.Text.ToString());
             heladoEditar.EditarSabor(formInicio.conexion);
             
-            MessageBox.Show("Helado editad correctamente.");
+            MessageBox.Show("Helado editado correctamente.");
             formInicio.ActualizarListaHelado();
             formInicio.ActualizarDataGrid();
         }

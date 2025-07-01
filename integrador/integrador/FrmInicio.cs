@@ -3,8 +3,8 @@ namespace integrador
 {
     public partial class FrmMain_Mostrar : Form
     {
-        public List<Helado> listaHelado = new List<Helado>();
-        Agregar_Sabores Agregar;
+        public List<Helado> listaHelado = new List<Helado>(); //espacio de memoria nuevo dentro de la lista
+        Agregar_Sabores Agregar; //creamos una variable del tipo agregar_sabores llamada agregar
         string strConexion = "data source= BDintegrador.db";
         public SqliteConnection conexion;
 
@@ -24,7 +24,6 @@ namespace integrador
         public void ActualizarDataGrid()
         {
             DgvSabores.Rows.Clear();
-
             foreach (Helado h in listaHelado)
             {
                 DgvSabores.Rows.Add(h.Id, h.Nombre, h.Descripcion, h.Precio);
@@ -61,10 +60,8 @@ namespace integrador
             {
                 MessageBox.Show("Debe haber sabores.");
             }
-            else
-            {
+            else{
                 int idAModificar = int.Parse(DgvSabores.SelectedRows[0].Cells["id"].Value.ToString());
-
                 Helado helado;
                 foreach (Helado h in listaHelado)
                 {
